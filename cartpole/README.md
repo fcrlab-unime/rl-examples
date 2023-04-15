@@ -21,3 +21,6 @@ This environment is part of the Classic Control environments. The unique depende
 ```bash
 pip install gymnasium[classic-control]
 ```
+
+## Examples
+- Zhiqing Xiao resolved the cart pole problem by applying a fixed deterministic policy.
