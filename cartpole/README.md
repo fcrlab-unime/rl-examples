@@ -22,5 +22,6 @@ This environment is part of the Classic Control environments. The unique depende
 pip install gymnasium[classic-control]
 ```
 
-## Examples
-- Zhiqing Xiao resolved the cart pole problem by applying a fixed deterministic policy.
+## Solutions
+- Fixed deterministic policy by Zhiqing Xiao
+- Particle Swarm Optimization by Adam Price
